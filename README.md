@@ -8,10 +8,7 @@ Lottie动画在compose中的使用
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+https://img-blog.csdnimg.cn/11b3aed86d3047c8b85d14e3ff409d8c.gif#pic_center
 
 #### 使用说明
 
